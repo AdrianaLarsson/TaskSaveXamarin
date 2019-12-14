@@ -1,0 +1,13 @@
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/TaskSave.csprojAssemblyReference.cache
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/bin/Debug/netstandard2.0/TaskSave.deps.json
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/bin/Debug/netstandard2.0/TaskSave.dll
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/bin/Debug/netstandard2.0/ref/TaskSave.dll
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/bin/Debug/netstandard2.0/TaskSave.pdb
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/TaskSave.AssemblyInfoInputs.cache
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/TaskSave.AssemblyInfo.cs
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/TaskSave.dll
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/ref/TaskSave.dll
+/Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/TaskSave.pdb
