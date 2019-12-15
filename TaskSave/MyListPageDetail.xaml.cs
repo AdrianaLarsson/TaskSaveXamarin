@@ -7,9 +7,13 @@ namespace TaskSave
 {
     public partial class MyListPageDetail : ContentPage
     {
-        public MyListPageDetail()
+        public MyListPageDetail(string name, string age)
         {
+            //details
             InitializeComponent();
+            FirstName.Text = name;
+            Age.Text = age;
+
         }
     }
 }

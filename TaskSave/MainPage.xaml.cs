@@ -27,7 +27,7 @@ namespace TaskSave
                 await App.Database.SavePersonAsync(new Person
                 {
                     Name = nameEntry.Text,
-                    Age = int.Parse(ageEntry.Text)
+                    Age = ageEntry.Text
                 });
 
                 nameEntry.Text = ageEntry.Text = string.Empty;
@@ -35,12 +35,14 @@ namespace TaskSave
             }
         }
 
-        //private async void OnItemSelected(Object sender, ItemTappedEventArgs e)
-        //{
-        //    var mydetails = e.Item as MainPage;
-        //    await Navigation.PushAsync(new MyListPageDetail(mydetails.Name, mydetails.Ingredients, mydetails.Image));
+        async void OnItemTapped(object sender, ItemTappedEventArgs e){
 
-        //}
+            var details = e.Item as Person;
+            await Navigation.PushAsync(new MyListPageDetail(details.Name, details.Age));
+            Console.WriteLine(nameEntry.Text + ageEntry.Text);
+        }
+
+     
     }
 
 

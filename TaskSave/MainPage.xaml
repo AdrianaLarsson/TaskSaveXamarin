@@ -9,13 +9,9 @@
                Placeholder="Enter age" />
         <Button Text="Add to Database"
                 Clicked="OnButtonClicked" />
-       <ListView x:Name="listView">
-           <!-- ItemsSource="{Binding FoodList}"
-                   HasUnevenRows="true"
-                   SeparatorVisibility="None"
-                   ItemTapped="OnItemSelected">-->
-
-                 
+       <ListView x:Name="listView"
+                 ItemTapped="OnItemTapped">
+          
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <TextCell Text="{Binding Name}"

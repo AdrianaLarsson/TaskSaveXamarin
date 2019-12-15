@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adrianalarsson/Projects/TaskSave/TaskSave.Android/TaskSave.Android.csproj": {}
+    "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave.Android/TaskSave.Android.csproj": {}
   },
   "projects": {
-    "/Users/adrianalarsson/Projects/TaskSave/TaskSave.Android/TaskSave.Android.csproj": {
+    "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave.Android/TaskSave.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adrianalarsson/Projects/TaskSave/TaskSave.Android/TaskSave.Android.csproj",
+        "projectUniqueName": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave.Android/TaskSave.Android.csproj",
         "projectName": "TaskSave.Android",
-        "projectPath": "/Users/adrianalarsson/Projects/TaskSave/TaskSave.Android/TaskSave.Android.csproj",
+        "projectPath": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave.Android/TaskSave.Android.csproj",
         "packagesPath": "/Users/adrianalarsson/.nuget/packages/",
-        "outputPath": "/Users/adrianalarsson/Projects/TaskSave/TaskSave.Android/obj/",
+        "outputPath": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/adrianalarsson/Projects/TaskSave/TaskSave/TaskSave.csproj": {
-                "projectPath": "/Users/adrianalarsson/Projects/TaskSave/TaskSave/TaskSave.csproj"
+              "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/TaskSave.csproj": {
+                "projectPath": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/TaskSave.csproj"
               }
             }
           }
@@ -56,14 +56,14 @@
         }
       }
     },
-    "/Users/adrianalarsson/Projects/TaskSave/TaskSave/TaskSave.csproj": {
+    "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/TaskSave.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adrianalarsson/Projects/TaskSave/TaskSave/TaskSave.csproj",
+        "projectUniqueName": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/TaskSave.csproj",
         "projectName": "TaskSave",
-        "projectPath": "/Users/adrianalarsson/Projects/TaskSave/TaskSave/TaskSave.csproj",
+        "projectPath": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/TaskSave.csproj",
         "packagesPath": "/Users/adrianalarsson/.nuget/packages/",
-        "outputPath": "/Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/",
+        "outputPath": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adrianalarsson/.config/NuGet/NuGet.Config"

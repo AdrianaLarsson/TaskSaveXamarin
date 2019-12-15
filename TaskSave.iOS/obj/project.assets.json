@@ -1337,11 +1337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adrianalarsson/Projects/TaskSave/TaskSave.iOS/TaskSave.iOS.csproj",
+      "projectUniqueName": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave.iOS/TaskSave.iOS.csproj",
       "projectName": "TaskSave.iOS",
-      "projectPath": "/Users/adrianalarsson/Projects/TaskSave/TaskSave.iOS/TaskSave.iOS.csproj",
+      "projectPath": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave.iOS/TaskSave.iOS.csproj",
       "packagesPath": "/Users/adrianalarsson/.nuget/packages/",
-      "outputPath": "/Users/adrianalarsson/Projects/TaskSave/TaskSave.iOS/obj/",
+      "outputPath": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1356,8 +1356,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/adrianalarsson/Projects/TaskSave/TaskSave/TaskSave.csproj": {
-              "projectPath": "/Users/adrianalarsson/Projects/TaskSave/TaskSave/TaskSave.csproj"
+            "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/TaskSave.csproj": {
+              "projectPath": "/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/TaskSave.csproj"
             }
           }
         }

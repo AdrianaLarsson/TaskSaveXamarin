@@ -17,12 +17,10 @@
     <Compile Remove="MyMasterDetailPageDetail.xaml.cs" />
     <Compile Remove="MyMasterDetailPageMaster.xaml.cs" />
     <Compile Remove="MyMasterDetailPageMenuItem.cs" />
-    <Compile Remove="MyListPageDetail.xaml.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Remove="MyMasterDetailPage.xaml" />
     <EmbeddedResource Remove="MyMasterDetailPageDetail.xaml" />
     <EmbeddedResource Remove="MyMasterDetailPageMaster.xaml" />
-    <EmbeddedResource Remove="MyListPageDetail.xaml" />
   </ItemGroup>
 </Project>

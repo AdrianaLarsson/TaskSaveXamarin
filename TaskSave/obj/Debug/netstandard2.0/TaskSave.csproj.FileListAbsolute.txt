@@ -11,3 +11,17 @@
 /Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/TaskSave.dll
 /Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/ref/TaskSave.dll
 /Users/adrianalarsson/Projects/TaskSave/TaskSave/obj/Debug/netstandard2.0/TaskSave.pdb
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/bin/Debug/netstandard2.0/TaskSave.deps.json
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/bin/Debug/netstandard2.0/TaskSave.dll
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/bin/Debug/netstandard2.0/ref/TaskSave.dll
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/bin/Debug/netstandard2.0/TaskSave.pdb
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/Debug/netstandard2.0/TaskSave.csprojAssemblyReference.cache
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/Debug/netstandard2.0/TaskSave.AssemblyInfoInputs.cache
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/Debug/netstandard2.0/TaskSave.AssemblyInfo.cs
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/Debug/netstandard2.0/TaskSave.dll
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/Debug/netstandard2.0/ref/TaskSave.dll
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/Debug/netstandard2.0/TaskSave.pdb
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/obj/Debug/netstandard2.0/MyListPageDetail.xaml.g.cs

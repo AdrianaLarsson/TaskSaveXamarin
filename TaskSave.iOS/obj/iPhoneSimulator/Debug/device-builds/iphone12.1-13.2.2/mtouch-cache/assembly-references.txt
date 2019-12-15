@@ -1,4 +1,4 @@
-/Users/adrianalarsson/Projects/TaskSave/TaskSave.iOS/bin/iPhoneSimulator/Debug/TaskSave.iOS.exe
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave.iOS/bin/iPhoneSimulator/Debug/TaskSave.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.6.0.12/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.6.0.12/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.6.0.12/lib/mono/Xamarin.iOS/System.dll
@@ -21,7 +21,7 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.6.0.12/lib/mono/Xamarin.iOS/System.Web.Services.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.6.0.12/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
 /Users/adrianalarsson/.nuget/packages/xamarin.forms/4.2.0.709249/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
-/Users/adrianalarsson/Projects/TaskSave/TaskSave/bin/Debug/netstandard2.0/TaskSave.dll
+/Users/adrianalarsson/Documents/TaskSaveXamarin/TaskSave/bin/Debug/netstandard2.0/TaskSave.dll
 /Users/adrianalarsson/.nuget/packages/xamarin.forms/4.2.0.709249/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Users/adrianalarsson/.nuget/packages/sqlite-net-pcl/1.6.292/lib/netstandard1.1/SQLite-net.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.6.0.12/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll

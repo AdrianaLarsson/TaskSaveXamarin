@@ -1,24 +1,24 @@
 ﻿<Properties StartupConfiguration="{02EA4672-1A04-4A4C-BBC8-4BCA438BD70F}|Default">
   <MonoDevelop.Ide.ItemProperties.TaskSave.Android PreferredExecutionTarget="Android.nexus_s_pie_9_0_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TaskSave/MyListPageDetail.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskSave/MyListPageDetail.xaml.cs">
     <Files>
-      <File FileName="TaskSave/Person.cs" Line="3" Column="19" />
-      <File FileName="TaskSave/Database.cs" Line="8" Column="6" />
-      <File FileName="TaskSave/App.xaml.cs" Line="28" Column="55" />
-      <File FileName="TaskSave/MainPage.xaml.cs" Line="41" Column="44" />
-      <File FileName="TaskSave/MainPage.xaml" Line="16" Column="20" />
-      <File FileName="TaskSave/App.xaml" Line="1" Column="1" />
-      <File FileName="TaskSave/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="TaskSave/Person.cs" Line="10" Column="22" />
+      <File FileName="TaskSave/Database.cs" />
+      <File FileName="TaskSave/App.xaml.cs" />
+      <File FileName="TaskSave/MainPage.xaml.cs" />
+      <File FileName="TaskSave/MainPage.xaml" />
+      <File FileName="TaskSave/App.xaml" />
+      <File FileName="TaskSave/AssemblyInfo.cs" />
       <File FileName="TaskSave/MyListPageDetail.cs" />
-      <File FileName="TaskSave/MyMasterDetailPage.xaml" Line="1" Column="1" />
-      <File FileName="TaskSave/MyMasterDetailPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="TaskSave/MyMasterDetailPageDetail.xaml" Line="1" Column="1" />
-      <File FileName="TaskSave/MyMasterDetailPageDetail.xaml.cs" Line="1" Column="1" />
-      <File FileName="TaskSave/MyMasterDetailPageMaster.xaml" Line="1" Column="1" />
-      <File FileName="TaskSave/MyMasterDetailPageMaster.xaml.cs" Line="1" Column="1" />
-      <File FileName="TaskSave/MyMasterDetailPageMenuItem.cs" Line="1" Column="1" />
-      <File FileName="TaskSave/MyListPageDetail.xaml" Line="1" Column="1" />
-      <File FileName="TaskSave/MyListPageDetail.xaml.cs" Line="1" Column="1" />
+      <File FileName="TaskSave/MyMasterDetailPage.xaml" />
+      <File FileName="TaskSave/MyMasterDetailPage.xaml.cs" />
+      <File FileName="TaskSave/MyMasterDetailPageDetail.xaml" />
+      <File FileName="TaskSave/MyMasterDetailPageDetail.xaml.cs" />
+      <File FileName="TaskSave/MyMasterDetailPageMaster.xaml" />
+      <File FileName="TaskSave/MyMasterDetailPageMaster.xaml.cs" />
+      <File FileName="TaskSave/MyMasterDetailPageMenuItem.cs" />
+      <File FileName="TaskSave/MyListPageDetail.xaml" />
+      <File FileName="TaskSave/MyListPageDetail.xaml.cs" Line="12" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -27,7 +27,9 @@
             <Node name="TaskSave" expanded="True">
               <Node name="App.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
-              <Node name="MyListPageDetail.xaml" expanded="True" selected="True" />
+              <Node name="MyListPageDetail.xaml" expanded="True">
+                <Node name="MyListPageDetail.xaml.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="TaskSave.Android" expanded="True" />
           </Node>
